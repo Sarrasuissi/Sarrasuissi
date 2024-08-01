@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **MarketTN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sarrasuissi/Sarrasuissi.github.io](https://github.com/Sarrasuissi/Sarrasuissi.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/Sarrasuissi/Sarrasuissi.github.io](https://sarrasuissi.github.io/)
 
 - 📫 How to reach me **sarrasouissi13@gmail.com**
 
