@@ -18,9 +18,7 @@
 <table style="width:100%" align="left">
 
  <tr>
- <td colspan="10" align="left"> <a href="https://www.welldup.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.welldup.com/assets/icons/logo-menu.webp" width="50" height="40"/>
-          </a></td>
+
 
 
 <td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
@@ -56,10 +54,8 @@
           <td colspan="10" align="left"><a href="https://www.luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://www.luxury-and-cosy.com/assets/Logo.webp" width="40" height="40"/>
     </a></td>
-          <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="70"  height="35"/>
-          </a></td>
-       </tr>
+        
+  </tr>
   <tr>
         <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
@@ -78,9 +74,7 @@
 
   
  
-  <td colspan="10" align="left"> <a href="https://www.giovanni-juvara.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.giovanni-juvara.com/assets/images/logofooter.webp" width="60" height="40"/>
-          </a></td>   
+
 
 
 
