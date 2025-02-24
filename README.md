@@ -12,7 +12,7 @@
 
  - 💬 Ask me about **anything related to MERN stack and related technologies**
  -  🌱 I'm a full stack developer
- - 🔭 I’m currently working on <strong style="color:red;">[Wellton](https://www.wellton-consulting.com/)</strong>
+ - 🔭 I’m currently working on <strong style="color:red;">[Finky([https://www.wellton-consulting.com/](https://www.finky-consulting.com/))</strong>
  - 📫 How to reach me sarrasouissi13@gmail.com
  - 👨‍💻 Get a peek at a few of my projects :
 <table style="width:100%" align="left">
