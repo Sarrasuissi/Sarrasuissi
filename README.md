@@ -95,7 +95,7 @@
 <table style="width:100%" align="center">
 
   <tr>
-    <td align="center">
+    
  <td align="center" >
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="sass">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
