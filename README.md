@@ -95,11 +95,7 @@
 <table style="width:100%" align="center">
 
   <tr>
-    <td align="center">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      </a>
-    </td>
+    
     <td align="center" >
   <td align="center" >
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="sass">
@@ -107,7 +103,11 @@
       </a>
     </td>
    
-    
+    <td align="center">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+      </a>
+    </td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "  title="React" alt="react" width="40" height="40"/>
       
  </td>
