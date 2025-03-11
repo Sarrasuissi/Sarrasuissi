@@ -38,8 +38,6 @@
     </a>   </td>
            
 
-
-
   </tr>
    <tr>
         <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
@@ -71,18 +69,9 @@
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://global-reno.com/assets/reno-global-logo.webp" width="73" height="28"/>
           </a></td> 
-
-  
- 
-
-
-
-
-
    
   </tr> 
  
-  
   </table>
 
 
@@ -91,19 +80,16 @@
 <hr width="100%">
 
 
-
 <table style="width:100%" align="center">
 
   <tr>
     
- 
- 
    <td align="center">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
       </a>
     </td>
-   
+    <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "  title="React" alt="react" width="40" height="40"/>
       
  </td>
