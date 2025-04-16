@@ -24,10 +24,10 @@
 <td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.eneahome.com/icons/logo.webp" width="60" height="40"/>
           </a></td>
-
-<td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40"/>
+ <td colspan="10" align="left"> <a href="https://lightslategray-nightingale-538581.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://lightslategray-nightingale-538581.hostingersite.com/assets/icons/logo.webp" width="60"  height="35"/>
           </a></td>
+
 <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="60" height="25"/>
           </a></td>
@@ -40,6 +40,9 @@
 
   </tr>
    <tr>
+       <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40"/>
+          </a></td>
         <td colspan="10" align="left"> <a href="https://lightslategray-nightingale-538581.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://lightslategray-nightingale-538581.hostingersite.com/assets/icons/logo.webp" width="60"  height="35"/>
           </a></td>
