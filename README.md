@@ -67,7 +67,9 @@
            <img src="https://www.open-mur.com/assets/logo-op.webp" width="60"  height="50"/>
           </a></td>
 
-   
+   <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="60"  height="50"/>
+          </a></td>
   </tr> 
  
   </table>
