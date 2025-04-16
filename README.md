@@ -40,7 +40,7 @@
 
   </tr>
    <tr>
-        <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <td colspan="10" align="left"> <a href="https://lightslategray-nightingale-538581.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60"  height="35"/>
           </a></td>
        <td colspan="10" align="left"> <a href="https://ab-pro.fr/" onclick="window.open(this.href, '_blank'); return false;">
