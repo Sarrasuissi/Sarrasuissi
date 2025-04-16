@@ -174,7 +174,7 @@
     </td>
     <td align="center">
       <a href="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="cplusplus" title="C++" width="40" height="40"/>
+        <img src="https://www.arduino.cc/" alt="cplusplus" title="C++" width="40" height="40"/>
       </a>
     </td>
 
