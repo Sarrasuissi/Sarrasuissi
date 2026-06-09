@@ -91,13 +91,14 @@
       </a>
     </td>
     <td align="center">
+         <a href="https://fr.react.dev/" target="_blank" rel="noreferrer" title="React">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "  title="React" alt="react" width="40" height="40"/>
-      
+         </a>
  </td>
   
- <td align="center">
+ <td align="center"> <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJs">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  title="Nextjs"/>
-    </td>
+</a>    </td>
 <!---->
 <!--      -->
     <td align="center" >
