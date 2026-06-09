@@ -157,7 +157,6 @@
       <img src="https://www.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" height="40" title="MySQL"/> </a>
     </td>
  <td align="center"> <a href="https://www.oracle.com/fr/" target="_blank" rel="noreferrer">
-       <td align="center" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" title="Oracle" /></a>
     </td>
        <td align="center"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
