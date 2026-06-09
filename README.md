@@ -143,7 +143,7 @@
     </td>
     <td align="center" >
       <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/nodejs" alt="nodejs" title="Nodejs" height="45"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/250px-Node.js_logo.svg.png" alt="nodejs" title="Nodejs" height="45"/>
       </a>
     </td>
     <td align="center" "  >
