@@ -148,19 +148,19 @@
       </a>
     </td>
     <td align="center" "  >
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="45" title="Laravel"/>
       </a>
     </td>
 
- <td align="center">
-      <img src="https://www.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" height="40" title="MySQL"/>
+ <td align="center"> <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer">
+      <img src="https://www.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" height="40" title="MySQL"/> </a>
     </td>
        <td align="center" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" title="Oracle" />
     </td>
-       <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB"  width="40" title="MongoDB" />
+       <td align="center"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB"  width="40" title="MongoDB" /> </a>
     </td>
 
  
@@ -175,7 +175,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+      <a href="https://openclassrooms.com/en/courses/1894236-apprenez-a-programmer-en-c" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="cplusplus" title="C++" width="40" height="40"/>
       </a>
     </td>
