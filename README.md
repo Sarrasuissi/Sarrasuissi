@@ -43,7 +43,6 @@
        <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40"/>
           </a></td>
-<!--          -->
        <td colspan="10" align="left"> <a href="https://www.welldup.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.welldup.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
           </a></td>
@@ -52,6 +51,9 @@
           </a></td> 
            <td colspan="10" align="left"> <a href="https://www.ikonoklass.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="40" align="center" height="50"/>
+          </a></td> 
+                  <td colspan="10" align="left"> <a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://reno-deco.fr/assets/icons/logo.webp" width="40" align="center" height="50"/>
           </a></td> 
                    <td colspan="10" align="left"> <a href="https://www.global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.global-reno.com/assets/logo.webp" width="40" align="center" height="50"/>
