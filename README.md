@@ -82,8 +82,8 @@
    <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="60"  height="50"/>
           </a></td>
-             <td colspan="10" align="left"> <a href="https://www.sybernetys.com/https://www.sybernetys.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.sybernetys.com/icons/logo.png" width="60"  height="50"/>
+             <td colspan="10" align="left"> <a href="https://www.wellton-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.wellton-consulting.com/assets/images/logo.webp" width="60"  height="50"/>
           </a></td>
    <td colspan="10" align="left"> <a href="https://www.cekterys.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.cekterys.com/icons/logo.webp" width="60"  height="50"/>
