@@ -106,6 +106,9 @@
           <td colspan="10" align="left"> <a href="https://www.ikonoklass.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="60"  height="50"/>
           </a></td>
+          <td colspan="10" align="left"> <a href="https://www.enea-construction.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" width="60"  height="50"/>
+          </a></td>
            <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60"  height="50"/>
           </a></td>
