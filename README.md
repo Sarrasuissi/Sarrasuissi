@@ -25,6 +25,9 @@
 <td colspan="10" align="left"> <a href="https://www.open-mur.com/https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.open-mur.com/assets/logo-op.webp" width="60" height="40"/>
           </a></td>
+          <td colspan="10" align="left"> <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="60" height="40"/>
+          </a></td>
 <td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.eneahome.com/icons/logo.webp" width="60" height="40"/>
           </a></td>
