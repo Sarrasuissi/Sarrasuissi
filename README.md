@@ -60,6 +60,11 @@
            <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
           </a></td>
 
+        <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
+          </a></td>
+
+
  <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.inchaate.com/assets/icons/logo.webp" width="60"  height="35"/>
           </a></td>
