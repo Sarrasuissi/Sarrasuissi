@@ -28,6 +28,9 @@
           <td colspan="10" align="left"> <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="60" height="40"/>
           </a></td>
+          <td colspan="10" align="left"> <a href="https://www.mur-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="60" height="40"/>
+          </a></td>
 <td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.eneahome.com/icons/logo.webp" width="60" height="40"/>
           </a></td>
@@ -66,6 +69,9 @@
           </a></td> 
                    <td colspan="10" align="left"> <a href="https://www.global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.global-reno.com/assets/logo.webp" width="40" align="center" height="50"/>
+          </a></td> 
+                          <td colspan="10" align="left"> <a href="https://www.agexea-energie.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" width="40" align="center" height="50"/>
           </a></td> 
   </tr>
   <tr>
