@@ -79,6 +79,9 @@
                                  <td colspan="10" align="left"> <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://facilitys-international.fr/assets/icons/logo-facilitys.webp" width="40" align="center" height="50"/>
           </a></td> 
+                                        <td colspan="10" align="left"> <a href="https://www.strategys-tunisie.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.strategys-tunisie.com/assets/icons/logo.webp" width="40" align="center" height="50"/>
+          </a></td> 
   </tr>
   <tr>
         <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
