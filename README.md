@@ -53,18 +53,14 @@
            <td colspan="10" align="left"> <a href="https://www.ikonoklass.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="40" align="center" height="50"/>
           </a></td> 
-        
+                   <td colspan="10" align="left"> <a href="https://www.global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.global-reno.com/assets/logo.webp" width="40" align="center" height="50"/>
+          </a></td> 
   </tr>
   <tr>
         <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
           </a></td>
-
-        <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
-          </a></td>
-
-
  <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.inchaate.com/assets/icons/logo.webp" width="60"  height="35"/>
           </a></td>
