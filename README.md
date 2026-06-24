@@ -68,7 +68,9 @@
   <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.open-mur.com/assets/logo-op.webp" width="60"  height="50"/>
           </a></td>
-
+  <td colspan="10" align="left"> <a href="https://1001-architectures.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://1001-architectures.com/assets/icons/logo.webp" width="60"  height="50"/>
+          </a></td>
    <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="60"  height="50"/>
           </a></td>
