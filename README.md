@@ -76,7 +76,7 @@
            <img src="https://www.sybernetys.com/icons/logo.png" width="60"  height="50"/>
           </a></td>
    <td colspan="10" align="left"> <a href="https://www.cekterys.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="	https://www.cekterys.com/icons/logo.webp" width="60"  height="50"/>
+           <img src="https://www.cekterys.com/icons/logo.webp" width="60"  height="50"/>
           </a></td>
           <td colspan="10" align="left"> <a href="https://www.enirop.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.enirop.com/assets/images/Logo-enirop.webp" width="60"  height="50"/>
