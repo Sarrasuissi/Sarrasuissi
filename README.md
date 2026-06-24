@@ -86,11 +86,11 @@
    <td colspan="10" align="left"> <a href="https://www.cekterys.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.cekterys.com/icons/logo.webp" width="60"  height="50"/>
           </a></td>
-          <td colspan="10" align="left"> <a href="https://www.enirop.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.enirop.com/assets/images/Logo-enirop.webp" width="60"  height="50"/>
+          <td colspan="10" align="left"> <a href="https://www.ikonoklass.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="60"  height="50"/>
           </a></td>
-           <td colspan="10" align="left"> <a href="https://www.sopranet.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.sopranet.com/assets/images/home/logo-sopranet.webp" width="60"  height="50"/>
+           <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.gex-batiment.com/" width="60"  height="50"/>
           </a></td>
   </tr> 
  
