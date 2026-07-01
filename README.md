@@ -240,7 +240,7 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="linkedin.com/in/sarra-souissi-b102a9240" target="_blank">
+  <a href="www.linkedin.com/in/sarra-souissi-b102a9240" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sarrasouissi13@gmail.com">
