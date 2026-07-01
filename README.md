@@ -129,7 +129,7 @@
 <br clear="both"/>
 <hr width="100%">
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 <table style="width:100%" align="center">
   <tr> 
