@@ -25,165 +25,280 @@
 
 <hr width="100%">
 
-## 🏢 Portfolio of Projects
+## 🏢 Featured Projects
 
-<div align="center">
-  
-### 🏠 Construction & Rénovation
-| Projet | Lien |
-|--------|------|
-| Maison Presto | [https://www.maison-presto.com/](https://www.maison-presto.com/) |
-| Open Mur | [https://www.open-mur.com/](https://www.open-mur.com/) |
-| Architectis | [https://www.architectis.fr/](https://www.architectis.fr/) |
-| Mur Mur | [https://www.mur-mur.fr/](https://www.mur-mur.fr/) |
-| Enea Home | [https://eneahome.com/](https://eneahome.com/) |
-| Mes Murs | [https://www.mesmurs.fr/](https://www.mesmurs.fr/) |
-| Renov en Main | [https://www.renov-en-main.fr/](https://www.renov-en-main.fr/) |
-| Mur et Trémie | [https://www.mur-et-tremie.com/](https://www.mur-et-tremie.com/) |
-| Gex Bâtiment | [https://www.gex-batiment.com/](https://www.gex-batiment.com/) |
-| Enea Construction | [https://www.enea-construction.com/](https://www.enea-construction.com/) |
-| Global Reno | [https://www.global-reno.com/](https://www.global-reno.com/) |
-| Reno Déco | [https://reno-deco.fr/](https://reno-deco.fr/) |
-| 1001 Architectures | [https://1001-architectures.com/](https://1001-architectures.com/) |
-
-### 💼 Consulting & Services
-| Projet | Lien |
-|--------|------|
-| Linkea Consulting | [https://linkea-consulting.com/](https://linkea-consulting.com/) |
-| Strategys Tunisie | [https://www.strategys-tunisie.com/](https://www.strategys-tunisie.com/) |
-| Strategys International | [https://www.strategys-international.com/](https://www.strategys-international.com/) |
-| Finky Consulting | [https://www.finky-consulting.com/](https://www.finky-consulting.com/) |
-| Wellton Consulting | [https://www.wellton-consulting.com/](https://www.wellton-consulting.com/) |
-
-### ⚡ Énergie & Environnement
-| Projet | Lien |
-|--------|------|
-| Agexis | [https://agexis.com/](https://agexis.com/) |
-| Agexea Energie | [https://www.agexea-energie.com/](https://www.agexea-energie.com/) |
-
-### 🏗️ Ingénierie & Architecture
-| Projet | Lien |
-|--------|------|
-| AB Engineering | [https://www.ab-engineering.fr/](https://www.ab-engineering.fr/) |
-| Inchaate | [https://www.inchaate.fr/](https://www.inchaate.fr/) |
-| Inchaate.com | [https://www.inchaate.com/](https://www.inchaate.com/) |
-| Cekterys | [https://www.cekterys.com/](https://www.cekterys.com/) |
-| Ikonoklass | [https://www.ikonoklass.fr/](https://www.ikonoklass.fr/) |
-
-### 🏢 Autres Projets
-| Projet | Lien |
-|--------|------|
-| Welldup | [https://www.welldup.com/](https://www.welldup.com/) |
-| Facilitys International | [https://facilitys-international.fr/](https://facilitys-international.fr/) |
-| Yellow Lobster | [https://yellow-lobster-107594.hostingersite.com/](https://yellow-lobster-107594.hostingersite.com/) |
-| Lightslategray Nightingale | [https://lightslategray-nightingale-538581.hostingersite.com/](https://lightslategray-nightingale-538581.hostingersite.com/) |
-
-</div>
+<table style="width:100%" align="center">
+  <tr>
+    <td colspan="10" align="center">
+      <a href="https://www.maison-presto.com/" target="_blank">
+        <img src="https://www.maison-presto.com/assets/icons/logo-maison-presto.webp" width="60" height="40" alt="Maison Presto"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.open-mur.com/" target="_blank">
+        <img src="https://www.open-mur.com/assets/logo-op.webp" width="60" height="40" alt="Open Mur"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.architectis.fr/" target="_blank">
+        <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="60" height="40" alt="Architectis"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.mur-mur.fr/" target="_blank">
+        <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="60" height="40" alt="Mur Mur"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://eneahome.com/" target="_blank">
+        <img src="https://www.eneahome.com/icons/logo.webp" width="60" height="40" alt="Enea Home"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="10" align="center">
+      <a href="https://www.mesmurs.fr/" target="_blank">
+        <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="60" height="35" alt="Mes Murs"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://agexis.com/" target="_blank">
+        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40" alt="Agexis"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.inchaate.fr/" target="_blank">
+        <img src="https://www.inchaate.fr/assets/icons/inchaate-logo.webp" width="60" height="40" alt="Inchaate"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.renov-en-main.fr/" target="_blank">
+        <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60" height="40" alt="Renov en Main"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.mur-et-tremie.com/" target="_blank">
+        <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40" alt="Mur et Trémie"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="10" align="center">
+      <a href="https://linkea-consulting.com/" target="_blank">
+        <img src="https://linkea-consulting.com/assets/icons/logo-linkea.webp" width="50" height="40" alt="Linkea Consulting"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.welldup.com/" target="_blank">
+        <img src="https://www.welldup.com/assets/icons/logo-menu.webp" width="70" height="35" alt="Welldup"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.ab-engineering.fr/" target="_blank">
+        <img src="https://www.ab-engineering.fr/assets/logo.webp" width="40" height="50" alt="AB Engineering"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.ikonoklass.fr/" target="_blank">
+        <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="40" height="50" alt="Ikonoklass"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://reno-deco.fr/" target="_blank">
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" width="40" height="50" alt="Reno Déco"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="10" align="center">
+      <a href="https://www.global-reno.com/" target="_blank">
+        <img src="https://www.global-reno.com/assets/logo.webp" width="40" height="50" alt="Global Reno"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.agexea-energie.com/" target="_blank">
+        <img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" width="40" height="50" alt="Agexea Energie"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://facilitys-international.fr/" target="_blank">
+        <img src="https://facilitys-international.fr/assets/icons/logo-facilitys.webp" width="40" height="50" alt="Facilitys International"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.strategys-tunisie.com/" target="_blank">
+        <img src="https://www.strategys-tunisie.com/assets/icons/logo.webp" width="40" height="50" alt="Strategys Tunisie"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.finky-consulting.com/" target="_blank">
+        <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70" height="35" alt="Finky Consulting"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="10" align="center">
+      <a href="https://www.inchaate.com/" target="_blank">
+        <img src="https://www.inchaate.com/assets/icons/logo.webp" width="60" height="35" alt="Inchaate.com"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.strategys-international.com/" target="_blank">
+        <img src="https://www.strategys-international.com/assets/images/logo.webp" width="60" height="35" alt="Strategys International"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://1001-architectures.com/" target="_blank">
+        <img src="https://1001-architectures.com/assets/icons/logo.webp" width="60" height="50" alt="1001 Architectures"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://yellow-lobster-107594.hostingersite.com/" target="_blank">
+        <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="60" height="50" alt="Yellow Lobster"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.wellton-consulting.com/" target="_blank">
+        <img src="https://www.wellton-consulting.com/assets/images/logo.webp" width="60" height="50" alt="Wellton Consulting"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="10" align="center">
+      <a href="https://www.cekterys.com/" target="_blank">
+        <img src="https://www.cekterys.com/icons/logo.webp" width="60" height="50" alt="Cekterys"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.enea-construction.com/" target="_blank">
+        <img src="https://www.enea-construction.com/assets/icons/logo-menu.webp" width="60" height="50" alt="Enea Construction"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.gex-batiment.com/" target="_blank">
+        <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60" height="50" alt="Gex Bâtiment"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://lightslategray-nightingale-538581.hostingersite.com/" target="_blank">
+        <img src="https://lightslategray-nightingale-538581.hostingersite.com/assets/icons/logo.webp" width="60" height="35" alt="Lightslategray Nightingale"/>
+      </a>
+    </td>
+    <td colspan="10" align="center">
+      <a href="https://www.ikonoklass.fr/" target="_blank">
+        <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="60" height="50" alt="Ikonoklass"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr width="100%">
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://reactjs.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React"/>
-          <br/><span>React</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://nextjs.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
-          <br/><span>Next.js</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://angular.io/">
-          <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48" height="48" alt="Angular"/>
-          <br/><span>Angular</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://tailwindcss.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="Tailwind"/>
-          <br/><span>Tailwind</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://getbootstrap.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap"/>
-          <br/><span>Bootstrap</span>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://nodejs.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/250px-Node.js_logo.svg.png" width="48" height="48" alt="Node.js"/>
-          <br/><span>Node.js</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://expressjs.com/">
-          <img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" width="48" height="48" alt="Express.js"/>
-          <br/><span>Express</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.mongodb.com/">
-          <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" width="48" height="48" alt="MongoDB"/>
-          <br/><span>MongoDB</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.mysql.com/">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWauVWRYLBqO75-0bVRjES81dJI1lPd7fAO_kehkjsg&s=10" width="48" height="48" alt="MySQL"/>
-          <br/><span>MySQL</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://laravel.com/">
-          <img src="https://laravel.com/img/logomark.min.svg" width="48" height="48" alt="Laravel"/>
-          <br/><span>Laravel</span>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://www.typescriptlang.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
-          <br/><span>TypeScript</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.java.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-          <br/><span>Java</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.php.net/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
-          <br/><span>PHP</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.figma.com/">
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma"/>
-          <br/><span>Figma</span>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://postman.com/">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/>
-          <br/><span>Postman</span>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table style="width:100%" align="center">
+  <tr> 
+    <td align="center">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://fr.react.dev/" target="_blank" rel="noreferrer" title="React">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJs">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" title="Nextjs"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" title="Angular"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://expressjs.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" title="express js" alt="express" height="43"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/250px-Node.js_logo.svg.png" alt="nodejs" title="Nodejs" height="45"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="45" title="Laravel"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWauVWRYLBqO75-0bVRjES81dJI1lPd7fAO_kehkjsg&s=10" alt="MySQL" height="40" title="MySQL"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB" width="40" title="MongoDB"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://openclassrooms.com/en/courses/1894236-apprenez-a-programmer-en-c" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="cplusplus" title="C++" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" title="Java" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="php" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" title="Figma" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" title="Postman" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr width="100%">
 
@@ -195,74 +310,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarraSouissi&theme=radical&hide_border=true"/>
 </div>
-
-<hr width="100%">
-
-## 🏆 Projets par Catégorie
-
-<details>
-<summary><b>🏠 Construction & Rénovation (13 projets)</b></summary>
-<br/>
-
-- [Maison Presto](https://www.maison-presto.com/) - Plateforme de rénovation
-- [Open Mur](https://www.open-mur.com/) - Solutions de rénovation
-- [Architectis](https://www.architectis.fr/) - Services d'architecture
-- [Mur Mur](https://www.mur-mur.fr/) - Rénovation intérieure
-- [Enea Home](https://eneahome.com/) - Aménagement intérieur
-- [Mes Murs](https://www.mesmurs.fr/) - Décoration murale
-- [Renov en Main](https://www.renov-en-main.fr/) - Rénovation clé en main
-- [Mur et Trémie](https://www.mur-et-tremie.com/) - Travaux de maçonnerie
-- [Gex Bâtiment](https://www.gex-batiment.com/) - Construction générale
-- [Enea Construction](https://www.enea-construction.com/) - Construction & rénovation
-- [Global Reno](https://www.global-reno.com/) - Rénovation globale
-- [Reno Déco](https://reno-deco.fr/) - Décoration & rénovation
-- [1001 Architectures](https://1001-architectures.com/) - Architecture & design
-
-</details>
-
-<details>
-<summary><b>💼 Consulting & Services (5 projets)</b></summary>
-<br/>
-
-- [Linkea Consulting](https://linkea-consulting.com/) - Conseil en stratégie
-- [Strategys Tunisie](https://www.strategys-tunisie.com/) - Stratégie d'entreprise
-- [Strategys International](https://www.strategys-international.com/) - Conseil international
-- [Finky Consulting](https://www.finky-consulting.com/) - Conseil financier
-- [Wellton Consulting](https://www.wellton-consulting.com/) - Conseil en gestion
-
-</details>
-
-<details>
-<summary><b>⚡ Énergie & Environnement (2 projets)</b></summary>
-<br/>
-
-- [Agexis](https://agexis.com/) - Solutions énergétiques
-- [Agexea Energie](https://www.agexea-energie.com/) - Énergie renouvelable
-
-</details>
-
-<details>
-<summary><b>🏗️ Ingénierie & Architecture (5 projets)</b></summary>
-<br/>
-
-- [AB Engineering](https://www.ab-engineering.fr/) - Ingénierie générale
-- [Inchaate](https://www.inchaate.fr/) - Architecture & construction
-- [Inchaate.com](https://www.inchaate.com/) - Plateforme architecturale
-- [Cekterys](https://www.cekterys.com/) - Services d'ingénierie
-- [Ikonoklass](https://www.ikonoklass.fr/) - Design & architecture
-
-</details>
-
-<details>
-<summary><b>🏢 Autres Projets (4 projets)</b></summary>
-<br/>
-
-- [Welldup](https://www.welldup.com/) - Solutions web
-- [Facilitys International](https://facilitys-international.fr/) - Gestion d'installations
-- [Yellow Lobster](https://yellow-lobster-107594.hostingersite.com/) - Projet web
-- [Lightslategray Nightingale](https://lightslategray-nightingale-538581.hostingersite.com/) - Projet web
-
-</details>
 
 <hr width="100%">
 
@@ -278,19 +325,10 @@
   <a href="https://github.com/SarraSouissi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.maison-presto.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-48CDDC?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SarraSouissi&label=Profile%20Views&color=48CDDC&style=flat" alt="Profile views"/>
-</div>
-
----
-
-<div align="center">
-  <i>✨ "Every end is a new beginning" ✨</i>
 </div>
