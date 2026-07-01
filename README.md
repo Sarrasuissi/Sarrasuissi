@@ -126,7 +126,7 @@
   </tr> 
   </table>
 
-<br/>
+<br clear="both"/>
 <hr width="100%">
 
 ## 🛠️ Tech Stack
