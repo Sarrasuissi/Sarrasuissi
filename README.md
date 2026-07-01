@@ -234,7 +234,7 @@
     </td>
   </tr>
 </table>
-
+<br/>
 <hr width="100%">
 
 ## 🤝 Connect With Me
@@ -246,10 +246,4 @@
   <a href="mailto:sarrasouissi13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SarraSouissi&label=Profile%20Views&color=48CDDC&style=flat" alt="Profile views"/>
 </div>
