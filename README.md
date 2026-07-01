@@ -126,7 +126,7 @@
   </tr> 
   </table>
 
-
+<br/>
 <hr width="100%">
 
 ## 🛠️ Tech Stack
