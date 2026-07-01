@@ -208,9 +208,7 @@
        <td align="center"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB"  width="40" title="MongoDB" /> </a>
     </td>
-
- 
- <td align="center" >
+ <!-- <td align="center" >
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/>
       </a>
@@ -219,7 +217,7 @@
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
       </a>
-    </td>
+    </td> -->
     <td align="center">
       <a href="https://openclassrooms.com/en/courses/1894236-apprenez-a-programmer-en-c" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="cplusplus" title="C++" width="40" height="40"/>
