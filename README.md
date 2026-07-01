@@ -235,17 +235,6 @@
   </tr>
 </table>
 
-<!-- <hr width="100%"> -->
-
-
-
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarraSouissi&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarraSouissi&layout=compact&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarraSouissi&theme=radical&hide_border=true"/>
-</div> -->
-
 <hr width="100%">
 
 ## 🤝 Connect With Me
@@ -256,9 +245,6 @@
   </a>
   <a href="mailto:sarrasouissi13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/SarraSouissi">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
