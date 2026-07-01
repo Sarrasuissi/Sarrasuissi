@@ -235,16 +235,16 @@
   </tr>
 </table>
 
-<hr width="100%">
+<!-- <hr width="100%"> -->
 
-## 📊 GitHub Stats
 
-<div align="center">
+
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarraSouissi&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarraSouissi&layout=compact&theme=radical&hide_border=true"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarraSouissi&theme=radical&hide_border=true"/>
-</div>
+</div> -->
 
 <hr width="100%">
 
