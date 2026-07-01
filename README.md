@@ -3,22 +3,15 @@
     <a >"Every end is a new beginning"</a>
 
 <p/>
-
 <img align="right" alt="coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdhMDJhczYza2JtanN3dm1pNjY5MHVpbDAycHgzYjEzOXlzcHFxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif">
-
-
 <hr widht="100%">
-
-
  - 💬 Ask me about **anything related to MERN stack and related technologies**
  -  🌱 I'm a full stack developer
  - 🔭 I’m currently working on <strong style="color:red;">[Maison Presto([https://www.maison-presto.com/])</strong>
  - 📫 How to reach me sarrasouissi13@gmail.com
  - 👨‍💻 Get a peek at a few of my projects :
 <table style="width:100%" align="left">
-
  <tr>
-
 <td colspan="10" align="left"> <a href="https://www.maison-presto.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.maison-presto.com/assets/icons/logo-maison-presto.webp" width="60" height="40"/>
           </a></td>
@@ -37,12 +30,9 @@
  <td colspan="10" align="left"> <a href="https://lightslategray-nightingale-538581.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://lightslategray-nightingale-538581.hostingersite.com/assets/icons/logo.webp" width="60"  height="35"/>
           </a></td>
-
 <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="60" height="25"/>
-          </a></td>
-
-          
+          </a></td>      
 <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
     </a></td>
@@ -52,7 +42,6 @@
 <td colspan="10" align="left"><a href="https://www.renov-en-main.fr/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60" height="40"/>
     </a></td>
-
   </tr>
    <tr>
        <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
@@ -118,19 +107,10 @@
            <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60"  height="50"/>
           </a></td>
   </tr> 
- 
   </table>
-
-
-
-
 <hr width="100%">
-
-
 <table style="width:100%" align="center">
-
-  <tr>
-    
+  <tr> 
    <td align="center">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>
@@ -141,12 +121,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "  title="React" alt="react" width="40" height="40"/>
          </a>
  </td>
-  
  <td align="center"> <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJs">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  title="Nextjs"/>
-</a>    </td>
-<!---->
-<!--      -->
+</a> 
+ </td>
     <td align="center" >
       <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" title="Angular"/>
@@ -157,7 +135,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="css" width="40" height="40"/>
       </a>
     </td>
-
    <td align="center" >
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/>
@@ -179,10 +156,7 @@
       </a>
     </td>
   </tr>
-
   <tr>
-<!--   -->
-<!--      -->
     <td align="center" >
       <a href="https://expressjs.com/en/" target="_blank" rel="noreferrer">
         <img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" title="express js" alt="express" height="43"/>
@@ -198,37 +172,19 @@
         <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="45" title="Laravel"/>
       </a>
     </td>
-
  <td align="center"> <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWauVWRYLBqO75-0bVRjES81dJI1lPd7fAO_kehkjsg&s=10" alt="MySQL" height="40" title="MySQL"/> </a>
     </td>
- <!-- <td align="center"> <a href="https://www.oracle.com/fr/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" title="Oracle" /></a>
-    </td> -->
        <td align="center"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB"  width="40" title="MongoDB" /> </a>
     </td>
- <!-- <td align="center" >
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
-      </a>
-    </td> -->
     <td align="center">
       <a href="https://openclassrooms.com/en/courses/1894236-apprenez-a-programmer-en-c" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="cplusplus" title="C++" width="40" height="40"/>
       </a>
     </td>
-
 </tr>
-
-  <tr>
-  
-
+  <tr>  
  <td align="center" >
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" title="Java" height="40"/>
@@ -249,10 +205,5 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" title="Postman" height="40"/>
       </a>
     </td>
-   
-   
-
-
  </tr>
-
 </table>
