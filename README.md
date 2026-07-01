@@ -200,11 +200,11 @@
     </td>
 
  <td align="center"> <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer">
-      <img src="https://www.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" height="40" title="MySQL"/> </a>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhWauVWRYLBqO75-0bVRjES81dJI1lPd7fAO_kehkjsg&s=10" alt="MySQL" height="40" title="MySQL"/> </a>
     </td>
- <td align="center"> <a href="https://www.oracle.com/fr/" target="_blank" rel="noreferrer">
+ <!-- <td align="center"> <a href="https://www.oracle.com/fr/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" title="Oracle" /></a>
-    </td>
+    </td> -->
        <td align="center"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB"  width="40" title="MongoDB" /> </a>
     </td>
